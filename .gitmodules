@@ -1,0 +1,3 @@
+[submodule "aws_learning"]
+	path = aws_learning
+	url = https://github.com/yadavnikita/aws_learning.git
